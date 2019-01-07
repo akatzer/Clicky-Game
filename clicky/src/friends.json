@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 2,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 3,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_ons_crd_01-1.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 4,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 5,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/006hbb_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 6,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/042wmr_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 7,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 8,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 9,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/014fal_ons_crd_02.jpg",
+    "clicked": 0
+  },
+  {
+    "id": 10,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/013vis_ons_crd_01-1.jpg",
+    "clicked": 0
+  }
+]
