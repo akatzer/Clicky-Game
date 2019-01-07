@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bulma": "^0.7.2",
+    "heroku": "^7.19.4",
     "react": "^16.7.0",
     "react-bulma-components": "^2.3.0",
     "react-dom": "^16.7.0",
